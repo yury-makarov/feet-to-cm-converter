@@ -10,4 +10,4 @@ This is a simple web application that allows users to convert lengths from feet 
 <li>Press the "Convert" button to complete the conversion.</li>
 <li>If a reset is necessary, simply press the "Reset" button to return the calculator to its initial state.</li>
 </ol>
-<p>Whether you use metric or imperial measurements, the feet-to-centimeters calculator is here to help!</p>
+<p>Whether you use metric or imperial measurements, the feet-to-centimeters calculator is here to help!</p> <a href="https://www.asutpp.com/feet-to-cm.html">Convert it here!</a>
