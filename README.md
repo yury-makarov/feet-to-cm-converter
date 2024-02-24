@@ -11,3 +11,5 @@ This is a simple web application that allows users to convert lengths from feet 
 <li>If a reset is necessary, simply press the "Reset" button to return the calculator to its initial state.</li>
 </ol>
 <p>Whether you use metric or imperial measurements, the feet-to-centimeters calculator is here to help! <a href="https://www.asutpp.com/feet-to-cm.html">Convert it here!</a></p>
+<h2>License</h2>
+<p>Centimeter to feet converter is licensed under the <a href="https://github.com/yury-makarov/centimeter-to-feet-converter/blob/main/LICENSE">Apache-2.0 license</a></p>
