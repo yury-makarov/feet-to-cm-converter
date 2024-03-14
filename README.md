@@ -13,7 +13,7 @@ This is a simple web application that allows users to convert lengths from feet 
 <p>Whether you use metric or imperial measurements, the feet-to-centimeters calculator is here to help! <a href="https://www.asutpp.com/feet-to-cm.html">Convert it here!</a></p>
 <h2>Screenshot</h2>
 <p><img src="https://github.com/yury-makarov/centimeters-to-millimeters-conversion/assets/161077097/2399007a-90fa-4daf-89bd-c6fc2c54a7a8" alt="Screenshot of the feet to cm converter"/></p>
-<p>Here is a screenshot of how the feet to cm converter works.</p>
+<p>Here is a screenshot of how the feet to centimeters converter works.</p>
 <h2>Technologies Used</h2>
 <ul>
     <li> HTML</li>
