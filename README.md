@@ -28,7 +28,7 @@ This is a simple web application that allows users to convert lengths from feet 
 <p>I'm an beginner frontend developer and I would welcome any help you can give me. If you liked this online calculator and want to buy me a coffee, you can donate to my USDT TRC20 address: <code>TMRgxdJKG9BBCodEbebeiya62EvEZBfGfjrM</code>. Thank you very much!</p>
 <h2>See Also</h2>
 <ul>
- <li><a href="https://github.com/yury-makarov/centimeters-to-millimeters-conversion/">Centimeters to Millimeters Converter</a></li>
+ <li><a href="https://github.com/yury-makarov/centimeters-to-millimeters-conversion">Centimeters to Millimeters Converter</a></li>
  <li><a href="https://github.com/yury-makarov/meter-to-cm-converter">Meter to cm converter</a></li>
  <li><a href="https://github.com/yury-makarov/cm-to-meter-converter">Cm to Meter Converter</a></li>
  <li><a href="https://github.com/yury-makarov/centimeter-to-feet-converter">Centimeter to Feet Converter</a></li>
